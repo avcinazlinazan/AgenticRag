@@ -1,0 +1,32 @@
+#!pip install -q -U sec-edgar-downloader==5.2.0 \
+# tqdm==4.66.4
+# unstructured[pdf,html]==0.14.9
+# langchain==0.2.6
+# langgraph==0.0.67
+# langchain-openai==0.1.15
+# langchain-google-genai==1.0.6
+# qdrant-client==1.9.2
+# fastembed==0.2.7
+# sentence-transformers==3.0.1
+# langsmith==0.1.83
+# ragas==0.1.9
+# tavily-python==0.3.3
+# python-dotenv==1.0.1
+# pandas==2.2.2
+# tqdm==4.66.4
+
+sec-edgar-downloader
+unstructured[pdf,html]
+langchain
+langgraph
+langchain-openai
+langchain-google-genai
+qdrant-client
+fastembed
+sentence-transformers
+langsmith
+ragas
+tavily-python
+python-dotenv
+pandas
+tqdm

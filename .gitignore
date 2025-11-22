@@ -1,0 +1,120 @@
+# ----------------------------
+# Python
+# ----------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+
+# Environment / credentials
+*.env
+.env
+.env.*
+*.ini
+*.cfg
+*.toml
+
+# Package manager
+pip-log.txt
+pip-wheel-metadata/
+pip-selfcheck.json
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.dll
+*.dylib
+
+# ----------------------------
+# Jupyter Notebook
+# ----------------------------
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Automatically generated Jupyter files
+.jupyter/
+.profile_default/
+
+# Binder
+binder/
+
+# ----------------------------
+# Logs & outputs
+# ----------------------------
+*.log
+*.out
+*.err
+
+# Model & data files (not to be committed)
+data/
+datasets/
+models/
+checkpoints/
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.pkl
+*.pickle
+*.npy
+*.npz
+*.csv
+*.tsv
+
+# ----------------------------
+# Operating System Files
+# ----------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Windows specific
+$RECYCLE.BIN/
+
+# ----------------------------
+# IDE / Editor folders
+# ----------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# PyCharm
+*.iml
+
+# ----------------------------
+# Conda / Pip Environment
+# ----------------------------
+conda-meta/
+*.yml
+*.yaml
+
+# ----------------------------
+# Cache
+# ----------------------------
+.cache/
+*.cache/
+build/
+dist/
+*.egg-info/
+
+# ----------------------------
+# Git LFS tracked objects
+# ----------------------------
+*.lfs
+
+# ----------------------------
+# Temp
+# ----------------------------
+tmp/
+temp/
+*.tmp
+
