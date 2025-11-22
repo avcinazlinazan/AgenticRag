@@ -163,4 +163,3 @@ git push -u origin main
 ## 🏁 Sonuç
 Bu proje, modern Agentic RAG uygulamalarında kullanılan birçok ileri bileşeni bir araya getirerek hem üretim ortamı hem de güvenlik analizi için kullanılabilir sağlam bir RAG agent pipeline oluşturur.
 
-İstersen README'yi daha görselli (diagram'lı), link'li, badge'li veya akademik formatta yeniden düzenleyebilirim.
